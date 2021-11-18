@@ -1,3 +1,5 @@
 GjJtp9nP-yrlKFn-F3S9_Eylmnw1uyMDGFevhtHzAO_m9_RnhHvOLl0MAR3USME15dHdYwopyV4AAAF9Mc5AhQ
 
 KZf1K-a3C3mJ3ljKXz4_H0xLnNCWtNR3zX_BkAopcFEAAAF9Mc6kAA
+
+https://kauth.kakao.com/oauth/authorize?client_id=b80c0df628911f66bfc491c31f514b51&redirect_uri=https://localhost:3000&response_type=code&scope=talk_message
